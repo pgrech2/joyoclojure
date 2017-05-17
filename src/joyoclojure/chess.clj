@@ -1,4 +1,4 @@
-(ns joyoclojure.project.chess)
+(ns joyoclojure.chess)
 
 (def ^:dynamic *file-key* \a)
 (def ^:dynamic *rank-key* \0)
